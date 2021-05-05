@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hagai155
-- 👀 I’m interested in full stack development
+- 👀 full stack web developer
 - 🌱 My projects:
 -  https://ofnoparking.netlify.app/
 
