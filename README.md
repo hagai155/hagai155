@@ -30,7 +30,7 @@
 
 
 ### 🌱 My projects:
--  https://ofnoparking.netlify.app/
+-  https://ofnoparking.netlify.app/ - web application build with react js, material-ui, openlayers maps, node js, express and mongodb.
 
 
 
